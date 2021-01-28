@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+h5py
+agentMET4FOF==0.4.1
+PyDynamic==2.0.dev1
+time-series-buffer
+time-series-metadata
