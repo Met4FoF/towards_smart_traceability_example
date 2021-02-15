@@ -131,3 +131,7 @@ dmypy.json
 # IDEs
 .idea
 .vscode
+
+# data and dumps
+dump/
+200623_MPU_9250_SN_12_X_Achse_3_COLAREF*
